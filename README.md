@@ -9,6 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gokulavasan-io&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulavasan-io&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+###
+The more you learn, the more you know realize how little you know.
 
